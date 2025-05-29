@@ -1,6 +1,5 @@
 import React from 'react';
 import Dashboard from './components/Dashboard';
-import { Chart as ChartJS } from 'chart.js/auto';
 
 function App() {
   return (
