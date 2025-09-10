@@ -66,7 +66,7 @@ smartscaling/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smartscaling.git
+   git clone https://github.com/shreyakumari0911/smartscaling.git
    cd smartscaling
    ```
 
@@ -95,9 +95,9 @@ smartscaling/
 
 The application is configured for deployment on free-tier services:
 
-- Backend API: Deployed on Render (free tier)
-- Frontend: Deployed on Vercel (free tier)
-- Monitoring: Prometheus + Grafana (self-hosted or cloud)
+- Backend API: Deployed on Render
+- Frontend: Deployed on Vercel
+- Monitoring: Prometheus + Grafana
 
 ## 📊 Monitoring Setup
 
